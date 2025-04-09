@@ -394,7 +394,7 @@ overflow: auto;
 
 .anunc{
   margin: 0 auto;
-  width: 250px;
+  width: 300px;
   border: 1px solid #0a0a0a;
   outline: 20px solid var(--acento-4);
   background: #1c1c1c;
@@ -405,7 +405,7 @@ overflow: auto;
 
 .anunc-cont{
   padding: 10px;
-  font: 13px Montserrat;
+  font: 12px Montserrat;
   text-align: justify;
 }
 
