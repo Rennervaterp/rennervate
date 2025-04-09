@@ -448,7 +448,8 @@ overflow: auto;
 .anunc{
   margin: 0 auto;
   width: 250px;
-  border: 15px solid var(--acento-4);
+  border: 1px solid #0a0a0a;
+  outline: 15px solid var(--acento-4);
   background: #1c1c1c;
   display: flex;
   align-items: center;
