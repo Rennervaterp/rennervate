@@ -455,4 +455,7 @@ overflow: auto;
 }
 
 .anunc span{
+  color: var(--staff);
+  font-family: Playfair Display;
+  font-size: 20px;
 }
