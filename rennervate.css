@@ -6,7 +6,7 @@ margin-top: 20px;
 margin-bottom: 20px;
 border: 1px solid #0a0a0a;
 padding: 15px;
-outline: 20px solid var(--acento-4);
+outline: 20px solid #f1f1f1;
 }
 
 
@@ -449,7 +449,7 @@ overflow: auto;
   margin: 0 auto;
   width: 250px;
   border: 1px solid #0a0a0a;
-  outline: 15px solid var(--acento-4);
+  outline: 20px solid var(--acento-4);
   background: #1c1c1c;
   display: flex;
   align-items: center;
