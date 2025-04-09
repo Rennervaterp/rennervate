@@ -458,7 +458,7 @@ overflow: auto;
 
 .anunc-cont{
   padding: 10px;
-  font: Montserrat 13px;
+  font: 13px Montserrat;
   text-align: justify;
 }
 
