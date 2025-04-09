@@ -411,6 +411,8 @@ overflow: auto;
 
 .anunc span{
   color: var(--staff);
-  font-family: Playfair Display;
-  font-size: 20px;
+  font-family: 'Rhoza One';
+  font-size: 24px;
+  text-align: center;
+  font-weight: bold;
 }
