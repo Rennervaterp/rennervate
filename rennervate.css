@@ -6,12 +6,10 @@ margin-top: 20px;
 margin-bottom: 20px;
 border: 1px solid #0a0a0a;
 padding: 15px;
-outline: 20px solid #f1f1f1;
+outline: 20px solid #1f1f1f;
 }
 
-
 .pbox strong{color: var(--spcolor);}
-
 
 .pimage{
 box-sizing: border-box;
@@ -25,7 +23,6 @@ margin-top: 15px;
 margin-bottom: 15px;
 }
 
-
 .pbox2, .plechu{
 box-sizing: border-box;
 width: 400px;
@@ -38,9 +35,7 @@ outline: 20px solid #1f1f1f;
 text-align: center;
 }
 
-
 .plechu{text-align: justify; font: 16px 'Rozha One';}
-
 
 .pbox2 img{
 height: 75px;
@@ -50,18 +45,15 @@ padding: 2px;
 border: 1px solid #0a0a0a;
 }
 
-
 .ptitle, .ptitle2{
 font: 34px 'Rozha One';
 font-weight: 700;
 text-align: center;
 }
 
-
 .ptitle2{
 color: var(--spcolor);
 }
-
 
 .psubtitle{
 margin-left: 30px;
@@ -73,7 +65,6 @@ font-weight: 700;
 color: var(--staff);
 }
 
-
 .pficha{
 box-sizing: border-box;
 width: 550px;
@@ -83,7 +74,6 @@ margin-bottom: 20px;
 border: 1px solid #0a0a0a;
 outline: 20px solid #1f1f1f;
 }
-
 
 .pficha2{
 box-sizing: border-box;
@@ -95,7 +85,6 @@ border: 1px solid #0a0a0a;
 outline: 20px solid #1f1f1f;
 }
 
-
 .pname{
 text-align: center;
 font: 26px 'Rhoza One';
@@ -105,13 +94,11 @@ padding: 15px;
 color: var(--spcolor);
 }
 
-
 .pcont{
 display: flex;
 border-bottom: 1px solid #0a0a0a;
 height: 500px;
 }
-
 
 .pcont2{
 box-sizing: border-box;
@@ -120,20 +107,17 @@ height: 150px;
 overflow: auto;
 }
 
-
 .pcont3{
 display: flex;
 box-sizing: border-box;
 height: 200px;
 }
 
-
 .pcont4{
 display: flex;
 box-sizing: border-box;
 flex-wrap: wrap;
 }
-
 
 .pleft{
 border-right: 1px solid #0a0a0a;
@@ -144,7 +128,6 @@ padding: 10px;
 overflow: auto;
 }
 
-
 .pleft2{
 border-right: 1px solid #0a0a0a;
 box-sizing: border-box;
@@ -153,7 +136,6 @@ height 200px;
 padding: 10px;
 }
 
-
 .pleft img, .pleft2 img{
 width: 170px;
 height: 170px;
@@ -161,11 +143,9 @@ padding: 5px;
 border: 1px solid #0a0a0a;
 }
 
-
 .pleft strong{
 color: var(--spcolor);
 }
-
 
 .pright{
 box-sizing: border-box;
@@ -173,7 +153,6 @@ width: 350px;
 padding: 10px;
 overflow: auto;
 }
-
 
 .pright2{
 box-sizing: border-box;
@@ -183,9 +162,7 @@ text-transform: uppercase;
 line-height: 25px;
 }
 
-
 .pright2 .far{margin-right: 10px; color: var(--spcolor);}
-
 
 .patri{
 box-sizing: border-box;
@@ -197,7 +174,6 @@ display: inline-block;
 padding: 20px;
 }
 
-
 .item1{
 width: 400px;
 background: #1f1f1f;
@@ -207,7 +183,6 @@ margin-left: 10px;
 margin-bottom: 2px;
 }
 
-
 .item2{
 width: 60px;
 background: var(--acento-3);
@@ -215,7 +190,6 @@ padding: 5px;
 display:inline-block;
 margin-bottom: 2px;
 }
-
 
 .pinfo{
 font: 10px 'Montserrat';
@@ -229,7 +203,6 @@ margin-bottom: 20px;
 color: var(--spcolor);
 }
 
-
 .pinfo2{
 font: 10px 'Montserrat';
 text-transform: uppercase;
@@ -240,7 +213,6 @@ padding: 5px;
 margin-bottom: 20px;
 }
 
-
 .prtit{
 font: 30px 'Playfair Display';
 font-weight: 700;
@@ -249,13 +221,11 @@ letter-spacing: 2px;
 margin: 5px;
 }
 
-
 .prtext{
 text-indent: 40px;
 line-height: 20px;
 padding: 10px;
 }
-
 
 .pcrono{
 box-sizing: border-box;
@@ -266,7 +236,6 @@ padding: 10px;
 margin: -5px;
 }
 
-
 .pcrono2{
 box-sizing: border-box;
 width: 515px;
@@ -275,9 +244,7 @@ overflow: auto;
 padding: 5px;
 }
 
-
 .pcrono a, .pcrono2 a{text-transform: uppercase;}
-
 
 .prelas{
 box-sizing: border-box;
@@ -287,7 +254,6 @@ padding: 10px;
 display: flex;
 flex-wrap: wrap;
 }
-
 
 .prel{
 background: #1f1f1f;
@@ -300,7 +266,6 @@ border: 1px solid #0a0a0a;
 margin: 1px;
 }
 
-
 .prel img{
 width: 100px;
 height: 100px;
@@ -310,7 +275,6 @@ border: 1px solid #0a0a0a;
 float: left;
 margin-right: 10px;
 }
-
 
 .ptrof{
 box-sizing: border-box;
@@ -322,20 +286,15 @@ margin: 2px;
 border: 1px solid #0a0a0a;
 }
 
-
 .preg, .pregr{
 overflow: auto;
 border: 1px solid #0a0a0a;
 padding: 10px;
 }
 
-
 .preg{height: 300px;}
 .pregr{height: 200px;}
-
-
 .pfecha{text-align: right;}
-
 
 .pimg{
 height: 200px;
@@ -347,7 +306,6 @@ margin: 10px;
 background-position: center;
 }
 
-
 .pbusq{
 padding: 5px;
 border-bottom: 1px solid #0a0a0a;
@@ -356,7 +314,6 @@ text-transform: uppercase;
 font: 10px 'Montserrat';
 color: var(--spcolor);
 }
-
 
 .pbusq2{
 box-sizing: border-box;
@@ -368,7 +325,6 @@ padding: 5px;
 margin: 10px;
 }
 
-
 .pshop{
 box-sizing: border-box;
 width: 200px;
@@ -377,7 +333,6 @@ border: 1px solid #0a0a0a;
 margin: 3px;
 overflow: auto;
 }
-
 
 .pshop1{
 border-bottom: 1px solid #0a0a0a;
@@ -388,14 +343,12 @@ padding: 5px;
 background: #0a0a0a;
 }
 
-
 .pshop2{padding: 10px;}
 
 .pgcont{
 display: flex;
 flex-wrap: wrap;
 }
-
 
 .pgcont2{
 background: #181818;
@@ -406,13 +359,11 @@ margin: 2px;
 text-align: justify;
 }
 
-
 .pgname, .pgemp, .pgedad, .pgdisp{
 text-transform: uppercase;
 text-align: center;
 padding: 5px;
 }
-
 
 .pgname{
 border-bottom: 1px solid #0a0a0a;
@@ -421,23 +372,19 @@ font-weight: 700;
 text-shadow: 1px 1px 1px #000;
 }
 
-
 .pgemp{
 border-bottom: 1px solid #0a0a0a;
 font-weight: 700;
 }
 
-
 .pgedad{
 border-bottom: 1px solid #0a0a0a;
 }
-
 
 .pgdisp{
 border-top: 1px solid #0a0a0a;
 font-weight: 700;
 }
-
 
 .pgdesc{
 height: 150px;
