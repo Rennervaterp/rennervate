@@ -413,6 +413,7 @@ overflow: auto;
   color: var(--staff);
   font-family: 'Rhoza One';
   font-size: 24px;
-  text-align: center!important;
+  display: block;
+  text-align: center;
   font-weight: bold;
 }
